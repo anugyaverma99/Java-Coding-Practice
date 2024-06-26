@@ -1,4 +1,5 @@
-// use comparision operator to determine whether a given number is greater than a user entered number or not;
+
+// use comparision operators to compare a given number with  a user entered number ;
 
 import java.util.Scanner;
 public class practiceset2q3 {
@@ -16,3 +17,4 @@ public class practiceset2q3 {
 
     }
 }
+

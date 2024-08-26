@@ -8,6 +8,8 @@ public class methods_31 {
 //     return z;
 // }
 
+
+
 ///not static method 
  int logic(int x,int y){ 
     int z;
@@ -24,6 +26,7 @@ public class methods_31 {
         methods_31 obj =new methods_31();
         int c=obj.logic(a,b);
         System.out.println(c);
+       
 
     }
 }
